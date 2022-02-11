@@ -10,5 +10,7 @@ pandas, matplotlib.pyplot, numpy, seaborn, sklearn, statsmodels
 
 ## Files in this project
 diamonds.csv: the historical diamond price data from that company to calculate the linear regression formula.
+
 new-diamonds.csv: the diamonds the company would like to buy and they need to predict the prices of these diamonds.
+
 Predicting Diamond Prices Codes: The python code and result of this project
