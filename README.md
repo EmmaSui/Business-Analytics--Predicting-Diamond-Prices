@@ -20,4 +20,4 @@ Predicting Diamond Prices Codes: The python code and result of this project
 
 
 
-If this project inspired you, gave you ideas to help with your own project, please consider https://www.buymeacoffee.com/emmaxsui8.
+If this project inspired you, gave you ideas to help with your own project, please consider [buying me a coffee](https://www.buymeacoffee.com/emmaxsui8).
