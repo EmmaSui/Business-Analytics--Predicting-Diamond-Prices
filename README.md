@@ -19,5 +19,5 @@ new-diamonds.csv: the diamonds the company would like to buy and they need to pr
 Predicting Diamond Prices Codes: The python code and result of this project
 
 
-
+## Others
 If this project inspired you, gave you ideas to help with your own project, please consider [buying me a coffee](https://www.buymeacoffee.com/emmaxsui8).
