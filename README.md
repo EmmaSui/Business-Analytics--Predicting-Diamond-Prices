@@ -16,7 +16,7 @@ diamonds.csv: the historical diamond price data from that company to calculate t
 
 new-diamonds.csv: the diamonds the company would like to buy and they need to predict the prices of these diamonds.
 
-Predicting Diamond Prices Codes: The python code and result of this project
+Predicting Diamond Prices Codes.ipynb: The python code and result of this project
 
 
 ## Others
