@@ -1,5 +1,5 @@
 # Business-Analytics--Predicting-Diamond-Prices
-This project was completed to practice multiple linear regression model and data visualization. The original data and project was created by Udacity, from the Nanodegree 'Predictive Analytics for Business Nanodegree. The original project provided the linear regression formula, but for practice purposes, I used python to build the model and calculated my own formula which is similar to the function provided by Udacity.
+This project was completed to practice multiple linear regression model and data visualization. The original data and project was created by Udacity, from the Nanodegree 'Predictive Analytics for Business Nanodegree'. The original project provided the linear regression formula, but for practice purposes, I used python to build the model and calculated my own formula which is similar to the function provided by Udacity.
 
 ## Project Overview
 
